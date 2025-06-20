@@ -7,7 +7,7 @@
 const JsUser = {
   name: "Mayank",
   "full name"
-  age :18,
+  age: 18,
   location: "Jaipur",
   email: "mayank@google.com",
   isLoggedIn: false,
