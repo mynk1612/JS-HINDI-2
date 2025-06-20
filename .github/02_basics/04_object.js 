@@ -64,6 +64,26 @@ const course = {
 const {courseInstructor} = course 
 
 console.log(courseInstructor);
+console.log(instructor);
 
+const navbar = ({company}) => {
 
- 
+}
+
+}
+
+n vbar(company = "mayank")
+
+//******************** API ************ 
+
+//{
+ //"name"= "mayank",
+ //"coursename": "js in hindi",
+  //price": "free"
+//}
+
+[
+    {},
+    {},
+    {}
+]
