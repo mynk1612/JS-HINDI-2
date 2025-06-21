@@ -79,4 +79,4 @@ functions returnSecondValue(getArray){
 
 }
 //console.log(returnSecondValue)myNewArrau));
-console.log(returnSecondValue(["200, 400, 600
+console.log(returnSecondValue(["200, 400, 600"]
