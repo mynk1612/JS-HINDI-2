@@ -15,6 +15,6 @@
 
 ( (name ) => {
     
-    console.log(`DB CONNECTED TWO ${name}`); // varaible name
+    console.log(`DB CONNECTED Three ${name}`); // varaible name
 
 })('mayank')
